@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": srijan1.aternos.me",
+    "ip":"srijan1.aternos.me",
     "port": 51597,
     "version": "1.21.1"
   },
